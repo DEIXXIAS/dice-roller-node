@@ -4,14 +4,8 @@
   "description": "this holds my node.js file to run dice roller",
   "main": "node.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "repository": {
-    "type": "Git",
-    "URL": "https://github.com/DEIXXIAS/dice-roller-node"
-  },
-
-
   "keywords": [],
   "author": "",
   "license": "ISC",
