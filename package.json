@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "this holds my node.js file to run dice roller",
   "main": "node.js",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
   "scripts": {
     "test": "jest"
   },
